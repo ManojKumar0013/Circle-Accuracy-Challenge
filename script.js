@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 const msg = document.getElementById("message");
 const scoreEl = document.getElementById("bestScore");
 const resetBtn = document.getElementById("resetBtn");
-const screenshotBtn = document.getElementById("screenshotBtn");
+const screenshotBtntgdfgdgdfg = document.getElementById("screenshotBtn");
 
 // Audio
 const sounds = {
